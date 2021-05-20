@@ -1,0 +1,5 @@
+add_stock hot_water 100
+add_stock sugar_syrup 200
+get_stock
+prepare black_tea
+exit
